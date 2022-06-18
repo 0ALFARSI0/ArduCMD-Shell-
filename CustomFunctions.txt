@@ -1,0 +1,18 @@
+#include <Servo>
+
+class Ser {
+ private:
+ int servopin;
+ public:
+  void Ser(Servopin) {
+   servopin = Servopin;
+   Servo servo;
+   servo.attach(servopin);
+   servo.write (90)
+   servo.detach ()
+}
+ void rotate(degree){
+   servo.attach(servopin)
+   servo.write(degree)
+   servo.detach(servopin)
+}}
