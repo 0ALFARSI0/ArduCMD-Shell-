@@ -5,7 +5,7 @@ because I'm tired from writing the same file a lot, so i can now just ran this f
 ,just by typing `c -theFileName`
 <hr>
 
-> *i will make it on Tkniter as soon as possible *
+> 
 
 ```python
 import os
