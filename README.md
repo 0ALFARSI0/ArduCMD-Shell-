@@ -1,4 +1,4 @@
-# python Arduino file
+# ArduCMD ![](https://img.shields.io/badge/ArduCMD-v1.2-blue)
 
 it's just a script that create a file with Arduino ,
 because I'm tired from writing the same file a lot, so i can now just ran this file and create the project 
